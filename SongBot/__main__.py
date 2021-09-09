@@ -9,9 +9,11 @@ from SongBot.SongBot import ignore_blacklisted_users
 from SongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
+
+"photo": "https://telegra.ph/file/b8045a9a9f3b66f7b84b5.jpg"
 👋 Hello [{}](tg://user?id={}),
 
-\n\nI Am 🎸Song Downloader Bot[🎶](https://telegra.ph/file/680985921050943ddf533.jpg)
+\n\nI Am 🎸Song Downloader Bot
 
 
 """
